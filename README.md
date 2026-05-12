@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Raju Gupta</h1>
 
 <h3 align="center">
@@ -181,6 +180,4 @@ Learning deeply:
 
 "Build systems that scale.  
 Build solutions that matter."
-
----
 ```
