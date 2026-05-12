@@ -171,10 +171,6 @@ Two-area power system control using:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajugupta1234185&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajugupta1234185&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
