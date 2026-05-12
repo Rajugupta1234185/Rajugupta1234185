@@ -163,17 +163,23 @@ Two-area power system control using:
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rajugupta1234185&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajugupta1234185&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajugupta1234185&layout=compact&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajugupta1234185&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajugupta1234185.Rajugupta1234185" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajugupta1234185&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajugupta1234185&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajugupta1234185&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajugupta1234185&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
